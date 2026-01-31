@@ -2,5 +2,5 @@
 2. Show code changes that can be commited first. In case of new folders, also show the files inside them that would commited.
 3. Show files/folders that should be added to gitignore
 4. Ask confirmation for yes and no.
-5. On yes, commit and push.
+5. On yes, generate a commit message based on changeset and commit. Do not push.
 6. On no, do nothing.
